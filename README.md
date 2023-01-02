@@ -1,2 +1,1 @@
-# SunflowerStreetCoffee
-# SunflowerStreetCoffee
+Sunflower Street Coffee Case Study
